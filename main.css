@@ -1,0 +1,18 @@
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.arc path {
+	stroke: #fff;
+	margin-left: 1550px;
+
+}
+
+svg {
+	float: left;
+	margin-left: 120px;
+	margin-top: 70px;
+}
